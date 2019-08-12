@@ -1,3 +1,4 @@
  # Define a local variable called 'greeting',
  # give it the value of the string "Hello World"
-greeting = "What's Happening"
+greeting = "Hello World"
+
